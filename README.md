@@ -7,6 +7,7 @@ Este projeto foi criado com o objetivo de:
 - Aplicar conceitos de Engenharia Elétrica
 - Treinar organização de código
 - Utilizar controle de versão com Git e GitHub
+
 O programa funciona via terminal e permite realizar cálculos importantes em circuitos elétricos.
 
 ## Funcionalidades
