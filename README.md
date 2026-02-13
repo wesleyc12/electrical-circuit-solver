@@ -28,7 +28,7 @@ O programa funciona via terminal e permite realizar cálculos importantes em cir
 
 ## Como Executar
 1. Certifique-se de ter o Python instalado (versão 3.10+ recomendada).
-2. Clone o repositório: https://github.com/wesleyc12/electrical-circuit-solver.git
+2. Clone o repositório: git clone https://github.com/wesleyc12/electrical-circuit-solver.git
 3. Acesse a pasta do projeto.
 4. Execute o arquivo principal: python solver_main.py
 
