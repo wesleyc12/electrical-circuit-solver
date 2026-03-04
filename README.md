@@ -27,10 +27,12 @@ O programa funciona via terminal e permite realizar cálculos importantes em cir
 - Cálculo usando V e R
 
 ## Como Executar
-1. Certifique-se de ter o Python instalado (versão 3.10+ recomendada).
-2. Clone o repositório: git clone https://github.com/wesleyc12/electrical-circuit-solver.git
-3. Acesse a pasta do projeto.
-4. Execute o arquivo principal: python solver_main.py
+
+- Certifique-se de ter o Python instalado (versão 3.10+ recomendada).
+- Clone o repositório:
+git clone https://github.com/wesleyc12/electrical-circuit-solver.git
+- Acesse a pasta do projeto: cd electrical-circuit-solver
+- Execute o arquivo principal: python main.py
 
 ## Tecnologias Utilizadas
 - Python
